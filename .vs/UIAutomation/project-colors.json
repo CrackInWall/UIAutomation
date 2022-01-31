@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f07b334b-7dd6-49ef-95fb-ec5fb042e7fe": {
+      "ProjectGuid": "f07b334b-7dd6-49ef-95fb-ec5fb042e7fe",
+      "DisplayName": "UIAutomationTests",
+      "ColorIndex": 0
+    },
+    "5c10eaa0-d6b5-460d-91e8-58fc864d70f2": {
+      "ProjectGuid": "5c10eaa0-d6b5-460d-91e8-58fc864d70f2",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "7b971223-cc9a-44c1-b7ac-4595a273f59b": {
+      "ProjectGuid": "7b971223-cc9a-44c1-b7ac-4595a273f59b",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 2
+    },
+    "6e6ed3ce-71d5-4d3b-ab4f-5201c4e39631": {
+      "ProjectGuid": "6e6ed3ce-71d5-4d3b-ab4f-5201c4e39631",
+      "DisplayName": "UIAutomation",
+      "ColorIndex": 3
+    },
+    "6196246a-d57b-4446-9e3f-29ef6587704b": {
+      "ProjectGuid": "6196246a-d57b-4446-9e3f-29ef6587704b",
+      "DisplayName": "UIAutomationTests",
+      "ColorIndex": 4
+    },
+    "a4cd0f71-5c21-4398-91fe-de90c8c05836": {
+      "ProjectGuid": "a4cd0f71-5c21-4398-91fe-de90c8c05836",
+      "DisplayName": "UIAutomationTests",
+      "ColorIndex": 5
+    },
+    "e806e2a5-cdda-497b-84bb-2dedb1d2d10c": {
+      "ProjectGuid": "e806e2a5-cdda-497b-84bb-2dedb1d2d10c",
+      "DisplayName": "UIAutoConsoleApp",
+      "ColorIndex": 6
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "8f526b35-f9a3-4afc-bb3a-8c11bcdfb93d": {
+      "ProjectGuid": "8f526b35-f9a3-4afc-bb3a-8c11bcdfb93d",
+      "DisplayName": "UIAutoTests",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

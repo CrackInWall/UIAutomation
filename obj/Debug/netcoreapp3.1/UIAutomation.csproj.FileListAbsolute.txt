@@ -1,0 +1,5 @@
+C:\Projects\UIAutomation\obj\Debug\netcoreapp3.1\UIAutomation.csproj.AssemblyReference.cache
+C:\Projects\UIAutomation\obj\Debug\netcoreapp3.1\UIAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\UIAutomation\obj\Debug\netcoreapp3.1\UIAutomation.AssemblyInfoInputs.cache
+C:\Projects\UIAutomation\obj\Debug\netcoreapp3.1\UIAutomation.AssemblyInfo.cs
+C:\Projects\UIAutomation\obj\Debug\netcoreapp3.1\UIAutomation.csproj.CoreCompileInputs.cache
