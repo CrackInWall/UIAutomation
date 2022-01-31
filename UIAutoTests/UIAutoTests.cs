@@ -8,7 +8,7 @@ namespace UIAutoTests
     public class UIAutoTests
     {
         [Fact]
-        public void Test1()
+        public void Login()
         {
             var user = new HelperClass();
             user.Setup();
