@@ -10,7 +10,7 @@ namespace UIAutoTests
         [Fact]
         public void Login()
         {
-            var user = new HelperClass();
+            var user = new PageObjects();
             user.Setup();
             user.LoginTo();
             user.CloseBrowser();

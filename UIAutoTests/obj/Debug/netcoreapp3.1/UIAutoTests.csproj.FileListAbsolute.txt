@@ -89,7 +89,6 @@ C:\Projects\UIAutomation\UIAutoTests\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.V
 C:\Projects\UIAutomation\UIAutoTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Projects\UIAutomation\UIAutoTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Projects\UIAutomation\UIAutoTests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Projects\UIAutomation\UIAutoTests\obj\Debug\netcoreapp3.1\UIAutoTests.csproj.AssemblyReference.cache
 C:\Projects\UIAutomation\UIAutoTests\obj\Debug\netcoreapp3.1\UIAutoTests.GeneratedMSBuildEditorConfig.editorconfig
 C:\Projects\UIAutomation\UIAutoTests\obj\Debug\netcoreapp3.1\UIAutoTests.AssemblyInfoInputs.cache
 C:\Projects\UIAutomation\UIAutoTests\obj\Debug\netcoreapp3.1\UIAutoTests.AssemblyInfo.cs

@@ -7,9 +7,12 @@ using OpenQA.Selenium.Chrome;
 namespace UIAutoTests
 {
     public class DriverHelper
-    {
-        
-        public IWebDriver Driver { get; set; }
-        
+    {        
+        private IWebDriver driver = new ChromeDriver("C:/Projects/UIAutomation/bin/Debug");
+        public IWebDriver Driver
+        {
+            get => driver;
+            set => driver = value;
+        }
     }
 }
