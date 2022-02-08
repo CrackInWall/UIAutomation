@@ -98,3 +98,4 @@ C:\Projects\UIAutomation\UIAutoTests\obj\Debug\netcoreapp3.1\UIAutoTests.dll
 C:\Projects\UIAutomation\UIAutoTests\obj\Debug\netcoreapp3.1\UIAutoTests.pdb
 C:\Projects\UIAutomation\UIAutoTests\obj\Debug\netcoreapp3.1\UIAutoTests.genruntimeconfig.cache
 C:\Projects\UIAutomation\UIAutoTests\bin\Debug\netcoreapp3.1\SeleniumExtras.WaitHelpers.dll
+C:\Projects\UIAutomation\UIAutoTests\obj\Debug\netcoreapp3.1\UIAutoTests.csproj.AssemblyReference.cache
