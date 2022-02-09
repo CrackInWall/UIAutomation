@@ -10,25 +10,25 @@ namespace UIAutoTests
 {
     public class PageObjects : HelperClass
     {
-        private static string username = "user@phptravels.com";
-        private static string password = "demouser";
-        public static By loginNameBy = By.Name("email");
-        public static By loginPasswordBy = By.Name("password");
-        public static By loginButtonBy = By.XPath("//button//span[contains(text(), 'Login')]");
-        public static IWebElement loginName => Driver.FindElement(loginNameBy);
-        public static IWebElement loginPassword => Driver.FindElement(loginPasswordBy);
-        public static IWebElement loginButton => Driver.FindElement(loginButtonBy);
+        private string username = "user@phptravels.com";
+        private string password = "demouser";
+        public By loginNameBy = By.Name("email");
+        public By loginPasswordBy = By.Name("password");
+        public By loginButtonBy = By.XPath("//button//span[contains(text(), 'Login')]");
+        public IWebElement loginName => Driver.FindElement(loginNameBy);
+        public IWebElement loginPassword => Driver.FindElement(loginPasswordBy);
+        public IWebElement loginButton => Driver.FindElement(loginButtonBy);
 
 
-        public static async Task LoginTo()
+        public void LoginTo()
         {            
             Driver.Navigate().GoToUrl(url);
-            //WaitUntilelementIsPresent(loginNameBy);
-            await Write(loginName, username);            
-            //WaitUntilelementIsPresent(loginPasswordBy);
-            await Write(loginPassword, password);
-            //WaitUntilelementIsPresent(loginButtonBy);
-            await ClickOn(loginButton);
+            WaitUntilelementIsPresent(loginNameBy);
+            Write(loginName, username);            
+            WaitUntilelementIsPresent(loginPasswordBy);
+            Write(loginPassword, password);
+            WaitUntilelementIsPresent(loginButtonBy);
+            ClickOn(loginButton);
             Thread.Sleep(6000);
         }
     }

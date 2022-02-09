@@ -9,11 +9,11 @@ namespace UIAutoTests
     public class UIAutoTests
     {
         [Fact]
-        public static async Task Login()
+        public void Login()
         {
             var user = new PageObjects();
             user.Setup();
-            await PageObjects.LoginTo();
+            user.LoginTo();
             user.CloseBrowser();
         }
     }
