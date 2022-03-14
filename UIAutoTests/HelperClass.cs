@@ -8,42 +8,36 @@ using OpenQA.Selenium.Support.UI;
 using SeleniumExtras.WaitHelpers;
 using System.Threading.Tasks;
 
-namespace UIAutoTests
+namespace UIAutomation
 {
-    public class HelperClass : DriverHelper
+    public static class HelperClass
     {
-        //public string url = "https://parabank.parasoft.com/";
-        public static string url = "https://www.phptravels.net/login";        
+        private static IWebDriver driver = new ChromeDriver("C:/Projects/UIAutomation/bin/Debug");
+        public static IWebDriver Driver
+        {
+            get => driver;
+            set => driver = value;
+        }
 
-        public void Setup()
-        {            
+        //public string url = "https://parabank.parasoft.com/";
+        public const string Url = "https://www.phptravels.net/login";
+
+        public static void Setup()
+        {
             ChromeOptions options = new ChromeOptions();
             //options.AddArguments("--headless");
 
             Driver.Manage().Window.Maximize();
-        }        
-        public void CloseBrowser()
+        }
+        public static void CloseBrowser()
         {
             Driver.Close();
         }
-        public void WaitUntilelementIsPresent(By el)
-        {
-            WebDriverWait wait = new WebDriverWait(Driver, TimeSpan.FromSeconds(10));
-            WebElement element = (WebElement)wait.Until(SeleniumExtras.WaitHelpers.ExpectedConditions.ElementToBeClickable(el));            
-        }
-        //public void ClickOn(IWebElement element)
-        //{
-        //    element.Click();
-        //}
         public static async Task ClickOn(IWebElement element)
         {
             await Task.Run(() => element.Click());
         }
-        //public void Write(IWebElement element, string text)
-        //{
-        //    element.SendKeys(text);           
-        //}
-        public static async Task Write(IWebElement element, string text)
+        public static async Task FillIn(IWebElement element, string text)
         {
             await Task.Run(() => element.SendKeys(text));
         }

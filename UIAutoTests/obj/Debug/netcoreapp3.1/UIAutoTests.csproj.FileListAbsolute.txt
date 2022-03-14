@@ -1,9 +1,6 @@
 C:\Projects\UIAutomation\UIAutoTests\bin\Debug\netcoreapp3.1\testhost.dll
 C:\Projects\UIAutomation\UIAutoTests\bin\Debug\netcoreapp3.1\testhost.exe
 C:\Projects\UIAutomation\UIAutoTests\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
-C:\Projects\UIAutomation\UIAutoTests\bin\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
-C:\Projects\UIAutomation\UIAutoTests\bin\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
-C:\Projects\UIAutomation\UIAutoTests\bin\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
 C:\Projects\UIAutomation\UIAutoTests\bin\Debug\netcoreapp3.1\UIAutoTests.deps.json
 C:\Projects\UIAutomation\UIAutoTests\bin\Debug\netcoreapp3.1\UIAutoTests.runtimeconfig.json
 C:\Projects\UIAutomation\UIAutoTests\bin\Debug\netcoreapp3.1\UIAutoTests.runtimeconfig.dev.json
@@ -20,10 +17,6 @@ C:\Projects\UIAutomation\UIAutoTests\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Projects\UIAutomation\UIAutoTests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
 C:\Projects\UIAutomation\UIAutoTests\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
 C:\Projects\UIAutomation\UIAutoTests\bin\Debug\netcoreapp3.1\WebDriver.dll
-C:\Projects\UIAutomation\UIAutoTests\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
-C:\Projects\UIAutomation\UIAutoTests\bin\Debug\netcoreapp3.1\xunit.assert.dll
-C:\Projects\UIAutomation\UIAutoTests\bin\Debug\netcoreapp3.1\xunit.core.dll
-C:\Projects\UIAutomation\UIAutoTests\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
 C:\Projects\UIAutomation\UIAutoTests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 C:\Projects\UIAutomation\UIAutoTests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 C:\Projects\UIAutomation\UIAutoTests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
@@ -98,4 +91,11 @@ C:\Projects\UIAutomation\UIAutoTests\obj\Debug\netcoreapp3.1\UIAutoTests.dll
 C:\Projects\UIAutomation\UIAutoTests\obj\Debug\netcoreapp3.1\UIAutoTests.pdb
 C:\Projects\UIAutomation\UIAutoTests\obj\Debug\netcoreapp3.1\UIAutoTests.genruntimeconfig.cache
 C:\Projects\UIAutomation\UIAutoTests\bin\Debug\netcoreapp3.1\SeleniumExtras.WaitHelpers.dll
+C:\Projects\UIAutomation\UIAutoTests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Projects\UIAutomation\UIAutoTests\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Projects\UIAutomation\UIAutoTests\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Projects\UIAutomation\UIAutoTests\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Projects\UIAutomation\UIAutoTests\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Projects\UIAutomation\UIAutoTests\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+C:\Projects\UIAutomation\UIAutoTests\bin\Debug\netcoreapp3.1\nunit.framework.dll
 C:\Projects\UIAutomation\UIAutoTests\obj\Debug\netcoreapp3.1\UIAutoTests.csproj.AssemblyReference.cache
